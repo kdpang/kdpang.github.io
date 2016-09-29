@@ -1,0 +1,51 @@
+body {
+	background-color: honeydew;
+	text-align: center;
+	font-family: Arial;
+}
+
+h1 {
+	color: slateblue;
+	background-color: white;
+	text-shadow: 2px 2px pink;
+}
+
+span {
+	font-weight: bold;
+}
+
+.bio{
+	text-align: center;
+	margin: auto;
+}
+
+a {
+	color: indigo;
+	text-decoration: none;
+
+}
+
+a:hover {
+	color: blueviolet;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+img{
+	border: 4px solid;
+	padding: 3px;
+}
+
+div {
+    font-size: 20px;
+	height: 25px;
+    width: 100px;
+    border-color: violet;
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 100px;
+    margin: auto;
+    text-align: center;
+}
+}
