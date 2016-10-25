@@ -11,6 +11,11 @@ h1 {
 	text-shadow: 2px 2px pink;
 }
 
+p {
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
 span {
 	font-weight: bold;
 }
