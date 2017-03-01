@@ -3,6 +3,8 @@ body {
 	text-align: center;
 	font-family: Arial;
 	background-image: url("Images/sky_background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 h1 {
